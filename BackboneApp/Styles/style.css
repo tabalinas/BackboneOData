@@ -1,0 +1,16 @@
+
+.list { 
+    list-style: none;
+}
+
+.list h4 { 
+    margin-bottom: 0.2em;
+}
+
+.list li { 
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.list li:last-child { 
+    border-bottom: none;
+}
