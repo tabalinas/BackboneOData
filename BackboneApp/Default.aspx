@@ -4,7 +4,7 @@
 
 <html>
 <head runat="server">
-    <title>Backbone Test Application</title>
+    <title>Backbone.js with OData Demo Application</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="Styles/bootstrap.css" rel="stylesheet" />
     <link href="Styles/style.css" rel="stylesheet" />
